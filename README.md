@@ -7,13 +7,13 @@
 ![](/public/active-states-step-1.jpg)
 
 ## Page 2
-![](/public/mobile-design-step-2.jpg)
+![](/public/mobile-design-step-2-monthly.jpg)
 ![](/public/active-states-step-2.jpg)
 
 ## Page3
-![](/public/mobile-design-step-3.jpg)
+![](/public/mobile-design-step-3-monthly.jpg)
 ![](/public/active-states-step-3.jpg)
 
 ## Page4
-![](/public/mobile-design-step-4.jpg)
+![](/public/mobile-design-step-4-monthly.jpg)
 ![](/public/active-states-step-4.jpg)
