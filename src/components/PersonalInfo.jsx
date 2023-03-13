@@ -20,9 +20,7 @@ const PersonalInfo = ({ error, setError, personalInfo, setPersonalInfo }) => {
       </p>
       <div>
         <div className="flex justify-between">
-          <label htmlFor="" className="text-[#072954] block">
-            Name
-          </label>
+          <label className="text-[#072954] block">Name</label>
           {error.name !== "" && (
             <label className="text-red-600 font-semibold text-sm">
               {error.name}
@@ -42,9 +40,7 @@ const PersonalInfo = ({ error, setError, personalInfo, setPersonalInfo }) => {
       </div>
       <div className="mt-4">
         <div className="flex justify-between">
-          <label htmlFor="" className="text-[#072954] block">
-            Email Address
-          </label>
+          <label className="text-[#072954] block">Email Address</label>
           {error.email !== "" && (
             <label className="text-red-600 font-semibold text-sm">
               {error.email}
@@ -64,9 +60,7 @@ const PersonalInfo = ({ error, setError, personalInfo, setPersonalInfo }) => {
       </div>
       <div className="mt-4">
         <div className="flex justify-between">
-          <label htmlFor="" className="text-[#072954] block">
-            Phone Number
-          </label>
+          <label className="text-[#072954] block">Phone Number</label>
           {error.phone !== "" && (
             <label className="text-red-600 font-semibold text-sm">
               {error.phone}
